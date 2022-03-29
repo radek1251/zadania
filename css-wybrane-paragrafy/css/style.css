@@ -1,0 +1,5 @@
+p{height: 100PX;
+width: 100PX;
+background-color: red;}
+p.class2{background-color: blue;}
+p.class3{opacity:0.5;}
