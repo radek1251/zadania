@@ -1,0 +1,11 @@
+body{background-color: rgba(255, 255, 0, 0.418);}
+h1{background-color: red;}
+h2{background-color: pink;}
+p{background-color: yellow;}
+h2+p{background-color: aqua;}
+ol{background-color:white}
+li#lista1{color:red}
+li#lista2{color:pink}
+li#lista3{color:yellow}
+li#lista4{color:aqua}
+li#lista5{color:black}
