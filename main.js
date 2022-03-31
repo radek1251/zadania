@@ -1,1 +1,1 @@
-console.log('Uwielbiam JavaScript!')
+var liczby = ['2','4','6','8','10','12']
