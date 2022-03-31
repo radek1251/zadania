@@ -1,2 +1,2 @@
-var name = "Radek"
-var surname = "Matoga"
+let name = "Radek"
+let surname = "Matoga"
