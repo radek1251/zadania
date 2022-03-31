@@ -1,2 +1,1 @@
-var name = "Radek"
-var surname = "Matoga" 
+console.log('Uwielbiam JavaScript!')
